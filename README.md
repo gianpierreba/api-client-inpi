@@ -17,7 +17,7 @@ A comprehensive INPI API Python Client for accessing French company data from IN
 - [API Reference](#-api-reference)
 - [Project Structure](#️-project-structure)
 - [Contributing](#-contributing)
-- [License](#license)
+- [License](LICENSE)
 
 ## ✨ Features
 
