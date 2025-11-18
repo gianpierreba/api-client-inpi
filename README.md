@@ -8,15 +8,15 @@ A comprehensive INPI API Python Client for accessing French company data from IN
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Data Sources](#data-sources)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Configuration](#configuration)
-- [Usage Examples](#usage-examples)
-- [API Reference](#api-reference)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
+- [Features](#-features)
+- [Data Sources](#-data-sources)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Configuration](#️-configuration)
+- [Usage Examples](#-usage-examples)
+- [API Reference](#-api-reference)
+- [Project Structure](#️-project-structure)
+- [Contributing](#-contributing)
 - [License](#license)
 
 ## ✨ Features
